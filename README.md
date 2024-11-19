@@ -1,3 +1,8 @@
+# CHANGELOGS
+- 2024/11/19    Install Larament
+                Disable link to profile in User menu by commenting out "->profile(Profile::class, false)" in AdminPanelProvider.php, will be replaced by plugin
+
+
 # Larament
 
 [![Pint](https://github.com/codewithdennis/larament/actions/workflows/pint.yml/badge.svg)](https://packagist.org/packages/codewithdennis/larament)
